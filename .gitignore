@@ -1,0 +1,20 @@
+
+#################################
+## Vagrant.gitignore
+#################################
+
+# Allow the Vagrantfile to be tracked as that's the intended purpose.
+.vagrant/
+
+#################################
+## Python.gitignore
+#################################
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+#############################################
+## Udacity Projects Specific
+##############################################
